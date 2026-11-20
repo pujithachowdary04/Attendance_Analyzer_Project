@@ -1,0 +1,38 @@
+[
+    {
+        "roll_no": "STU001",
+        "name": "Aarav",
+        "classes_held": 40,
+        "classes_attended": 36
+    },
+    {
+        "roll_no": "STU002",
+        "name": "Diya",
+        "classes_held": 40,
+        "classes_attended": 28
+    },
+    {
+        "roll_no": "STU003",
+        "name": "Kiran",
+        "classes_held": 42,
+        "classes_attended": 40
+    },
+    {
+        "roll_no": "STU004",
+        "name": "Meera",
+        "classes_held": 38,
+        "classes_attended": 25
+    },
+    {
+        "roll_no": "STU005",
+        "name": "Rahul",
+        "classes_held": 40,
+        "classes_attended": 32
+    },
+    {
+        "roll_no": "101",
+        "name": "prasanna",
+        "classes_held": 98,
+        "classes_attended": 88
+    }
+]
